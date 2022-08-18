@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691103940982",
+    "project_id": "timeadd-f4f8b",
+    "storage_bucket": "timeadd-f4f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691103940982:android:82ed845d0658e2e7e13a57",
+        "android_client_info": {
+          "package_name": "com.example.time_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691103940982-qj9sriksn0das81i9h58cbnhe96l8tlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-M5qc6AyIZmSOPQo06rNzHvJ0YgpwS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691103940982-qj9sriksn0das81i9h58cbnhe96l8tlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
